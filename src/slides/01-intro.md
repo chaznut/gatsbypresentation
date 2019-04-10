@@ -13,6 +13,12 @@ Blazing fast static sites with React and GraphQL!
 > Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps
 > <cite>Gatsby Docs</cite>
 
+---
+
+![Display](./gatsbygraph.png)
+
+
+
 
 ---
 
@@ -23,6 +29,10 @@ Blazing fast static sites with React and GraphQL!
 * 100% SEO out of the box
 * Plugins and starter ecosystem is vast
 * Headless CMS
+
+---
+
+![Performance](./performance.png)
 
 ---
 
