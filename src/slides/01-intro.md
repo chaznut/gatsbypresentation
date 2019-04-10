@@ -15,7 +15,7 @@ Blazing fast static sites with React and GraphQL!
 
 ---
 
-![Display](./gatsbygraph.png)
+![Display](./gatsbygraph3.png)
 
 
 
