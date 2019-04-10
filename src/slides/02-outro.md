@@ -1,14 +1,10 @@
-Images can be embedded from the local filesystem!
-
-![xkcd on standards](./standards.png)
-
-(attribution: xkcd.com)
+## I love Gatsby and I think you will too!
 
 ---
 
 ![Monkey](//i.imgur.com/PnbINJ6.gif)
 
-🌟 Star it on [GitHub](//github.com/fabe/gatsby-deck),  
-or create your own with:
+🌟 Star it on [GitHub](//github.com/gatsbyjs/gatsby),  
+or begin creating blazing fast sites today:
 
-    gatsby new my-slides https://github.com/fabe/gatsby-starter-deck
+     https://www.gatsbyjs.org/
